@@ -53,6 +53,7 @@ The dashboard includes interactive slicers for:
 These allow users to filter the data dynamically for deeper analysis.
 
 ---
+![HR_dashboard](HR.png)
 
 
 
